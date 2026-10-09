@@ -1,0 +1,223 @@
+,Country,GDP(BİLLİON USD)
+0,World,118350.17
+1,United States,30769.7
+2,China[n 1],19498.04
+3,Germany,5050.92
+4,Japan,4435.16
+5,United Kingdom,4002.59
+6,India,3956.07
+7,France,3366.32
+8,Italy,2551.56
+9,Russia,2561.31
+10,Brazil,2279.92
+11,Canada,2319.9
+12,Australia,1798.52
+13,Mexico,1832.64
+14,Spain,1906.45
+15,South Korea,1872.38
+16,Turkey,1597.29
+17,Indonesia,1445.64
+18,Netherlands,1332.77
+19,Saudi Arabia,1276.94
+20,Switzerland,1043.53
+21,Poland,1035.49
+22,Taiwan[n 3],0.0
+23,Ireland,721.7
+24,Belgium,725.47
+25,Sweden,669.0
+26,Israel,610.78
+27,Argentina,683.1
+28,Singapore,603.87
+29,Austria,579.47
+30,United Arab Emirates,0.0
+31,Norway,530.76
+32,Thailand,577.01
+33,Colombia,457.41
+34,Vietnam,514.7
+35,Malaysia,472.19
+36,Philippines,487.09
+37,Bangladesh,456.32
+38,Denmark,462.53
+39,Romania,428.68
+40,South Africa,427.18
+41,Hong Kong[n 4],427.31
+42,Czech Republic,391.03
+43,Egypt,365.26
+44,Chile,357.37
+45,Pakistan,407.31
+46,Peru,334.86
+47,Portugal,346.64
+48,Nigeria,290.79
+49,Kazakhstan,306.24
+50,Finland,317.04
+51,Algeria,287.03
+52,Greece,280.64
+53,Iran,362.68
+54,New Zealand,264.06
+55,Hungary,246.49
+56,Iraq,254.37
+57,Cuba,0.0
+58,Ukraine[n 5],214.23
+59,Qatar,215.56
+60,Morocco,182.37
+61,Uzbekistan,147.04
+62,Kuwait,157.21
+63,Slovakia,154.53
+64,Angola,122.18
+65,Bulgaria,130.78
+66,Kenya,135.94
+67,Ecuador,130.32
+68,Dominican Republic,127.41
+69,Puerto Rico,129.37
+70,Guatemala,123.31
+71,DR Congo,91.03
+72,Ethiopia,126.36
+73,Ghana,114.21
+74,Oman,109.6
+75,Croatia,105.06
+76,Ivory Coast,99.77
+77,Serbia,99.95
+78,Venezuela,99.66
+79,Luxembourg,101.16
+80,Costa Rica,102.9
+81,Sri Lanka,108.82
+82,Lithuania,95.21
+83,Belarus,93.4
+84,Uruguay,85.35
+85,Panama,90.46
+86,Tanzania[n 6],90.14
+87,Slovenia,79.65
+88,Myanmar,81.67
+89,Turkmenistan,49.83
+90,Bolivia,64.77
+91,Azerbaijan,75.94
+92,Uganda,61.99
+93,Cameroon,58.93
+94,Jordan,61.61
+95,Tunisia,57.5
+96,Paraguay,49.28
+97,Zimbabwe,51.22
+98,Macau[n 7],52.06
+99,Latvia,48.62
+100,Libya,48.1
+101,Cambodia,51.27
+102,Estonia,47.03
+103,Bahrain,48.97
+104,Nepal,45.49
+105,Cyprus[n 8],41.23
+106,Sudan,60.16
+107,Iceland,38.58
+108,Georgia[n 9],38.14
+109,Honduras,39.6
+110,Zambia,28.88
+111,Senegal,37.01
+112,El Salvador,36.71
+113,Haiti,32.08
+114,Bosnia and Herzegovina,32.6
+115,Lebanon,0.0
+116,Papua New Guinea,32.5
+117,Guyana,27.1
+118,Mali,30.07
+119,Albania,30.54
+120,Burkina Faso,27.63
+121,Armenia,29.24
+122,Malta,27.77
+123,Guinea,28.35
+124,Mongolia,25.37
+125,Benin,24.57
+126,Trinidad and Tobago,25.94
+127,Chad,21.47
+128,Niger,21.65
+129,Nicaragua,22.24
+130,Kyrgyzstan,22.62
+131,Gabon,21.43
+132,Mozambique,22.34
+133,Jamaica,22.7
+134,Botswana,19.93
+135,Moldova[n 10],20.35
+136,North Macedonia,19.1
+137,Madagascar,19.62
+138,Tajikistan,17.66
+139,Afghanistan,0.0
+140,Laos,18.3
+141,Malawi,14.92
+142,Rwanda,16.37
+143,Namibia,15.08
+144,Syria,0.0
+145,North Korea,0.0
+146,Palestine[n 11][n 12],17.17
+147,Mauritius,16.16
+148,Bahamas,0.0
+149,Congo,16.31
+150,Brunei,15.03
+151,Mauritania,11.68
+152,Somalia,13.0
+153,Kosovo,12.46
+154,Equatorial Guinea,12.82
+155,Togo,11.89
+156,Channel Islands,0.0
+157,Monaco,0.0
+158,Montenegro,9.23
+159,Liechtenstein,0.0
+160,Bermuda,0.0
+161,New Caledonia,0.0
+162,Barbados,8.02
+163,Sierra Leone,7.46
+164,Burundi,3.36
+165,Maldives,7.74
+166,Cayman Islands,0.0
+167,Isle of Man,0.0
+168,Yemen,0.0
+169,Guam,0.0
+170,Fiji,6.2
+171,French Polynesia,0.0
+172,South Sudan,0.0
+173,Suriname,4.52
+174,Eswatini,5.16
+175,Liberia,5.25
+176,Andorra,4.5
+177,Djibouti,4.62
+178,U.S. Virgin Islands,0.0
+179,Aruba,0.0
+180,Faroe Islands,0.0
+181,Bhutan,3.58
+182,Curaçao,0.0
+183,Central African Republic,3.07
+184,Greenland,0.0
+185,Belize,3.33
+186,Cape Verde,3.06
+187,Guinea-Bissau,2.53
+188,Lesotho,2.57
+189,Gambia,2.59
+190,Saint Lucia,2.66
+191,Zanzibar,0.0
+192,San Marino,0.0
+193,Antigua and Barbuda,2.34
+194,Seychelles,2.39
+195,Timor-Leste,1.9
+196,Eritrea,0.0
+197,Sint Maarten,1.89
+198,Solomon Islands,1.75
+199,British Virgin Islands,0.0
+200,Comoros,1.82
+201,Turks and Caicos Islands,0.0
+202,Grenada,1.42
+203,Vanuatu,1.35
+204,Samoa,1.29
+205,Saint Vincent and the Grenadines,1.25
+206,São Tomé and Príncipe,0.98
+207,Saint Kitts and Nevis,1.18
+208,Northern Mariana Islands,0.0
+209,American Samoa,0.0
+210,Dominica,0.72
+211,Tonga,0.68
+212,Saint Martin,0.0
+213,Federated States of Micronesia,0.5
+214,Anguilla,0.0
+215,Cook Islands,0.0
+216,Kiribati,0.35
+217,Palau,0.34
+218,Marshall Islands,0.31
+219,Nauru,0.18
+220,Montserrat,0.0
+221,Tuvalu,0.06
